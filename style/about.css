@@ -1,0 +1,21 @@
+/* <!-- ============  Background img > img  ============ --> */
+.bg-img>img {
+    background-color: #2124B1;
+    width: 100%;
+}
+
+/* <!-- ============  div  ============ --> */
+.bg-img>div {
+    position: relative;
+    text-align: center;
+    top: -300px;
+    color: #fff;
+    display: grid;
+    place-items: center;
+}
+
+/* <!-- ***********  horizantional libe  *********** --> */
+.bg-img>div>hr {
+    width: 110px;
+    margin: 12px 0;
+}
